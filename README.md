@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Atualmente cursando o 2º semestre de TADS
+- 🎓 Atualmente cursando o 3º semestre de TADS
 - 💻 Explorando tecnologias como **HTML, CSS, JavaScript, Java, PHP, MySQL e MongoDB**
 - 🌐 Interessado por desenvolvimento **web**, **backend** e **automação**
 - 📈 Sempre buscando aprender algo novo e evoluir como dev
