@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Davi Rochelle</h1>
+<h1 align="center">👋 Olá! Eu sou o Davi Rochelle Davila</h1>
 
 <p align="center">
   Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> | Apaixonado por tecnologia e por transformar ideias em código.
